@@ -1,0 +1,85 @@
+_repo: An-Inquiry-into-the-Nature-and-Causes-of-the-Wealth-of-Nations_3300
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Adam
+    birthdate: 1723
+    deathdate: 1790
+    gutenberg_agent_id: '1158'
+    url: http://www.gutenberg.org/2009/agents/1158
+    wikipedia: http://en.wikipedia.org/wiki/Adam_Smith
+description: "An Inquiry into the Nature and Causes of the Wealth of Nations, generally\
+  \ referred to by its shortened title The Wealth of Nations, is the magnum opus of\
+  \ the Scottish economist and moral philosopher Adam Smith. First published in 1776,\
+  \ the book offers one of the world's first collected descriptions of what builds\
+  \ nations' wealth, and is today a fundamental work in classical economics. By reflecting\
+  \ upon the economics at the beginning of the Industrial Revolution, the book touches\
+  \ upon such broad topics as the division of labour, productivity, and free markets.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Harvard Classics
+gutenberg_issued: '2002-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3300'
+  wikidata: Q233562
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Economics'
+- !lcc 'HB'
+- GITenberg
+title: An Inquiry into the Nature and Causes of the Wealth of Nations
+url: http://www.gutenberg.org/ebooks/3300
+wikipedia:
+- https://zh-classical.wikipedia.org/wiki/%E5%8E%9F%E5%AF%8C
+- https://fi.wikipedia.org/wiki/Kansojen_varallisuus
+- https://eo.wikipedia.org/wiki/La_Ri%C4%89o_de_Nacioj
+- https://pa.wikipedia.org/wiki/%E0%A8%A6_%E0%A8%B5%E0%A9%88%E0%A8%B2%E0%A8%A5_%E0%A8%86%E0%A8%AB%E0%A8%BC_%E0%A8%A8%E0%A9%87%E0%A8%B8%E0%A8%BC%E0%A8%A8%E0%A8%9C
+- https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D1%81%D0%BB%D1%96%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F_%D0%BF%D1%80%D0%BE_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D1%83_%D1%96_%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%B8_%D0%B1%D0%B0%D0%B3%D0%B0%D1%82%D1%81%D1%82%D0%B2%D0%B0_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D1%96%D0%B2
+- https://fr.wikiversity.org/wiki/Recherches_sur_la_nature_et_les_causes_de_la_richesse_des_nations
+- https://fa.wikipedia.org/wiki/%D8%AB%D8%B1%D9%88%D8%AA_%D9%85%D9%84%D9%84
+- https://gu.wikipedia.org/wiki/%E0%AA%A7_%E0%AA%B5%E0%AB%87%E0%AA%B2%E0%AB%8D%E0%AA%A5_%E0%AA%91%E0%AA%AB_%E0%AA%A8%E0%AB%87%E0%AA%B6%E0%AA%A8%E0%AA%9D
+- https://bg.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D0%B0%D1%82%D1%81%D1%82%D0%B2%D0%BE%D1%82%D0%BE_%D0%BD%D0%B0_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5
+- https://vi.wikipedia.org/wiki/T%C3%ACm_hi%E1%BB%83u_v%E1%BB%81_b%E1%BA%A3n_ch%E1%BA%A5t_v%C3%A0_ngu%E1%BB%93n_g%E1%BB%91c_c%E1%BB%A7a_c%E1%BA%A3i_c%E1%BB%A7a_c%C3%A1c_qu%E1%BB%91c_gia
+- https://en.wikisource.org/wiki/The_Wealth_of_Nations
+- https://ms.wikipedia.org/wiki/The_Wealth_of_Nations
+- https://zh-yue.wikipedia.org/wiki/%E5%8E%9F%E5%AF%8C
+- https://el.wikipedia.org/wiki/%CE%9F_%CE%A0%CE%BB%CE%BF%CF%8D%CF%84%CE%BF%CF%82_%CF%84%CF%89%CE%BD_%CE%95%CE%B8%CE%BD%CF%8E%CE%BD
+- https://gl.wikipedia.org/wiki/A_riqueza_das_naci%C3%B3ns
+- https://fr.wikisource.org/wiki/Recherches_sur_la_nature_et_les_causes_de_la_richesse_des_nations
+- https://hi.wikipedia.org/wiki/%E0%A4%A6_%E0%A4%B5%E0%A5%87%E0%A4%B2%E0%A5%8D%E0%A4%A5_%E0%A4%91%E0%A4%AB_%E0%A4%A8%E0%A5%87%E0%A4%B6%E0%A4%A8%E0%A5%8D%E0%A4%B8
+- https://ja.wikipedia.org/wiki/%E8%AB%B8%E5%9B%BD%E6%B0%91%E3%81%AE%E5%AF%8C%E3%81%AE%E6%80%A7%E8%B3%AA%E3%81%A8%E5%8E%9F%E5%9B%A0%E3%81%AE%E7%A0%94%E7%A9%B6
+- https://pt.wikipedia.org/wiki/A_Riqueza_das_Na%C3%A7%C3%B5es
+- https://wuu.wikipedia.org/wiki/%E5%9B%BD%E5%AF%8C%E8%AE%BA
+- https://es.wikipedia.org/wiki/La_riqueza_de_las_naciones
+- https://en.wikipedia.org/wiki/The_Wealth_of_Nations
+- https://zh.wikisource.org/wiki/%E5%8E%9F%E5%AF%8C
+- https://io.wikipedia.org/wiki/La_Richeso_di_la_Nacioni
+- https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BE_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B5_%D0%B8_%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%B0%D1%85_%D0%B1%D0%BE%D0%B3%D0%B0%D1%82%D1%81%D1%82%D0%B2%D0%B0_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BE%D0%B2
+- https://ro.wikipedia.org/wiki/Avu%C8%9Bia_na%C8%9Biunilor
+- https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%B6%80%EB%A1%A0
+- https://fr.wikipedia.org/wiki/Recherches_sur_la_nature_et_les_causes_de_la_richesse_des_nations
+- https://zh.wikipedia.org/wiki/%E5%9C%8B%E5%AF%8C%E8%AB%96
+- https://pl.wikipedia.org/wiki/Badania_nad_natur%C4%85_i_przyczynami_bogactwa_narod%C3%B3w
+- https://ko.wikisource.org/wiki/%EA%B5%AD%EB%B6%80%EB%A1%A0
+- https://simple.wikipedia.org/wiki/The_Wealth_of_Nations
+- https://sv.wikipedia.org/wiki/Nationernas_v%C3%A4lst%C3%A5nd
+- https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%84%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4
+- https://sq.wikipedia.org/wiki/Pasuria_e_kombeve
+- https://mk.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D0%B0%D1%82%D1%81%D1%82%D0%B2%D0%BE%D1%82%D0%BE_%D0%BD%D0%B0_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5
+- https://ar.wikipedia.org/wiki/%D8%AB%D8%B1%D9%88%D8%A9_%D8%A7%D9%84%D8%A3%D9%85%D9%85
+- https://nl.wikipedia.org/wiki/The_Wealth_of_Nations
+- https://id.wikipedia.org/wiki/An_Inquiry_Into_the_Nature_and_Causes_of_the_Wealth_of_Nations
+- https://cs.wikipedia.org/wiki/Pojedn%C3%A1n%C3%AD_o_podstat%C4%9B_a_p%C5%AFvodu_bohatstv%C3%AD_n%C3%A1rod%C5%AF
+- https://de.wikipedia.org/wiki/Der_Wohlstand_der_Nationen
+- https://tl.wikipedia.org/wiki/The_Wealth_of_Nations
+- https://hy.wikipedia.org/wiki/%D5%80%D5%A5%D5%BF%D5%A1%D5%A6%D5%B8%D5%BF%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6_%D5%AA%D5%B8%D5%B2%D5%B8%D5%BE%D5%B8%D6%82%D6%80%D5%A4%D5%B6%D5%A5%D6%80%D5%AB_%D5%B0%D5%A1%D6%80%D5%BD%D5%BF%D5%B8%D6%82%D5%A9%D5%B5%D5%A1%D5%B6_%D5%A2%D5%B6%D5%B8%D6%82%D5%B5%D5%A9%D5%AB_%D6%87_%D5%BA%D5%A1%D5%BF%D5%B3%D5%A1%D5%BC%D5%B6%D5%A5%D6%80%D5%AB_%D5%B7%D5%B8%D6%82%D6%80%D5%BB
+- https://it.wikipedia.org/wiki/La_ricchezza_delle_nazioni
+- https://no.wikipedia.org/wiki/Nasjonenes_velstand
+- https://ca.wikipedia.org/wiki/Indagaci%C3%B3_sobre_la_naturalesa_i_les_causes_de_la_riquesa_de_les_nacions
+- https://tr.wikipedia.org/wiki/Uluslar%C4%B1n_Zenginli%C4%9Fi
+- https://he.wikipedia.org/wiki/%D7%A2%D7%95%D7%A9%D7%A8_%D7%94%D7%A2%D7%9E%D7%99%D7%9D
