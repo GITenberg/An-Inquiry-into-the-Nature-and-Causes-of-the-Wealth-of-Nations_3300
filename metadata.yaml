@@ -1,5 +1,8 @@
 _repo: An-Inquiry-into-the-Nature-and-Causes-of-the-Wealth-of-Nations_3300
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Smith, Adam
@@ -16,6 +19,8 @@ description: "An Inquiry into the Nature and Causes of the Wealth of Nations, ge
   \ upon the economics at the beginning of the Industrial Revolution, the book touches\
   \ upon such broad topics as the division of labour, productivity, and free markets.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3300#An-Inquiry-into-the-Nature-and-Causes-of-the-Wealth-of-Nations
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - Harvard Classics
